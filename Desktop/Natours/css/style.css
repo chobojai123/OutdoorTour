@@ -94,6 +94,10 @@ body {
 .u-margin-bottom-small {
   margin-bottom: 1.5rem; }
 
+.feature-box {
+  width: 100px;
+  background-color: orange; }
+
 .composition {
   position: relative; }
   .composition__photo {
